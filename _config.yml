@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#97896F'
+    - '#D1DAE3'
+    - '#5E5F61'
+  brandStrength: 0.84375
+  lightness: 0
+  rhythmicContrast: 0.81081
+  saturation: 1
+cta: {}
+layout_spectrum: 0.618243
+name: shamanicperformance
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.517736
